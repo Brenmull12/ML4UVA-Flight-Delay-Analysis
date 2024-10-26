@@ -19,7 +19,10 @@
 ---
 
 ### Code Resources
-- ...
+- [Change column type in pandas](https://stackoverflow.com/questions/15891038/change-column-type-in-pandas)
+- [How can I use the apply() function for a single column?](https://stackoverflow.com/questions/34962104/how-can-i-use-the-apply-function-for-a-single-column)
+- [Find empty or NaN entry in Pandas Dataframe](https://stackoverflow.com/questions/27159189/find-empty-or-nan-entry-in-pandas-dataframe)
+- [Replacing blank values (white space) with NaN in pandas](https://stackoverflow.com/questions/13445241/replacing-blank-values-white-space-with-nan-in-pandas)
 
 ---
 
@@ -28,3 +31,5 @@
 
 ---
 
+### Informational
+- [Understanding the Reporting of Causes of Flight Delays and Cancellations](https://www.bts.gov/topics/airlines-and-airports/understanding-reporting-causes-flight-delays-and-cancellations)
