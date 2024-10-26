@@ -1,0 +1,7 @@
+pip >= 24.0
+tensorflow
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
