@@ -27,7 +27,10 @@
 ---
 
 ### Generative AI
-- ...
+- ChatGPT-4o Mini
+  - "I have two pandas Series object of the same length. I want to create a new series with that obeys the following expression for each element-by-element comparison: label[i] = delay[i] if cancellation_codes[i] is None else 120"
+  - "How can I manipulate a pandas dataframe before transforming it into a numpy array in a sklearn pipeline? Is there way to do this before the transformer? I have a function to do this, but not a class."
+  - "Great. Followup: In a ColumnTransformer, I want to automatically transform all "object" columns. How can I do that?"
 
 ---
 
