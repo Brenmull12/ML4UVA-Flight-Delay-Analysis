@@ -23,6 +23,7 @@
 - [How can I use the apply() function for a single column?](https://stackoverflow.com/questions/34962104/how-can-i-use-the-apply-function-for-a-single-column)
 - [Find empty or NaN entry in Pandas Dataframe](https://stackoverflow.com/questions/27159189/find-empty-or-nan-entry-in-pandas-dataframe)
 - [Replacing blank values (white space) with NaN in pandas](https://stackoverflow.com/questions/13445241/replacing-blank-values-white-space-with-nan-in-pandas)
+- [IPython Notebook - early exit from cell](https://stackoverflow.com/questions/24005221/ipython-notebook-early-exit-from-cell)
 
 ---
 
