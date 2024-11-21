@@ -5,3 +5,5 @@ pandas
 numpy
 matplotlib
 seaborn
+dask[complete]
+dask-ml
