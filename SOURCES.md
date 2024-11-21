@@ -15,6 +15,7 @@
 - [NumPy](https://numpy.org/doc/2.1/reference/index.html)
 - [matplotlib](https://matplotlib.org/stable/api/index.html)
 - [Seaborn](https://seaborn.pydata.org/api.html)
+- [Dask](https://docs.dask.org/en/stable/)
 
 ---
 
@@ -24,6 +25,7 @@
 - [Find empty or NaN entry in Pandas Dataframe](https://stackoverflow.com/questions/27159189/find-empty-or-nan-entry-in-pandas-dataframe)
 - [Replacing blank values (white space) with NaN in pandas](https://stackoverflow.com/questions/13445241/replacing-blank-values-white-space-with-nan-in-pandas)
 - [IPython Notebook - early exit from cell](https://stackoverflow.com/questions/24005221/ipython-notebook-early-exit-from-cell)
+- [Dask Examples](https://examples.dask.org/)
 
 ---
 
@@ -32,6 +34,8 @@
   - "I have two pandas Series object of the same length. I want to create a new series with that obeys the following expression for each element-by-element comparison: label[i] = delay[i] if cancellation_codes[i] is None else 120"
   - "How can I manipulate a pandas dataframe before transforming it into a numpy array in a sklearn pipeline? Is there way to do this before the transformer? I have a function to do this, but not a class."
   - "Great. Followup: In a ColumnTransformer, I want to automatically transform all "object" columns. How can I do that?"
+
+  - Used widely to refactor the Pandas dataframes into Dask dataframes.
 
 ---
 

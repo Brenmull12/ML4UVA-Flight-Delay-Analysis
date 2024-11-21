@@ -1,9 +1,10 @@
 pip >= 24.0
 tensorflow
+dask[complete]
+dask-ml
 scikit-learn
 pandas
 numpy
 matplotlib
 seaborn
-dask[complete]
-dask-ml
+ipykernel
